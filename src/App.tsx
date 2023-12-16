@@ -1,10 +1,10 @@
-import UseState_useEffect_useLayoutEffect from './modules/hooks/seState_useEffect_useLayoutEffect/UseState_useEffect_useLayoutEffect';
+import UseMemo_useCallBack_memo from './modules/hooks/useMemo_useCallBack_memo/UseMemo_useCallBack_memo';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <UseState_useEffect_useLayoutEffect />
+      <UseMemo_useCallBack_memo />
     </div>
   );
 }
